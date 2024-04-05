@@ -1,4 +1,5 @@
-import org.example.AutomationBasics.CashbackHackService;
+package org.example.AutomationBasics;
+
 import org.testng.annotations.Test;
 
 import static org.testng.AssertJUnit.assertEquals;
